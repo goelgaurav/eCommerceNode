@@ -1,4 +1,4 @@
-# ecommercesite
+# ecommerece
 
 ## Project setup
 ```
